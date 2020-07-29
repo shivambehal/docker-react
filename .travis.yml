@@ -18,7 +18,7 @@ deploy:
     on:
         branch: master
     access-key-id: 
-        secure: $aws_access_key_id
+        secure: "$aws_access_key_id"
     secret_acess_key: 
         secure: "$aws_secret_access_key"
     session_token:
