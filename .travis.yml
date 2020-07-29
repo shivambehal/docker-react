@@ -21,3 +21,5 @@ deploy:
         secure: $aws_access_key_id
     secret_acess_key: 
         secure: "$aws_secret_access_key"
+    session_token:
+        secure: "$aws_session_token"
