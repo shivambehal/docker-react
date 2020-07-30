@@ -21,4 +21,3 @@ deploy:
     secret_acess_key: "$aws_secret_access_key"
     on:
         tags: true
-    branches: true
