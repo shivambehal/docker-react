@@ -19,5 +19,3 @@ deploy:
         branch: master
     access-key-id: "$aws_access_key_id"
     secret_acess_key: "$aws_secret_access_key"
-    on:
-        tags: true
